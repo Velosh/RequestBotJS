@@ -1,0 +1,27 @@
+{
+  "name": "vrb-stag",
+  "version": "0.0.1",
+  "description": "A request bot made using js for Velosh GSIs, this code is out of date, remember this!",
+  "main": "bot.js",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.51.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Velosh/RequestBotJS.git"
+  },
+  "keywords": [
+    "gsi",
+    "bot"
+  ],
+  "author": "YukoSky",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Velosh/RequestBotJS/issues"
+  },
+  "homepage": "https://github.com/Velosh/RequestBotJS"
+}
