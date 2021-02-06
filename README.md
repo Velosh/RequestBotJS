@@ -13,7 +13,7 @@
 
 ### How to setup it
 * Install dependencies using ```npm i```
-* Open the ```bot.js``` file and read the commented lines.
+* Open the ```config.js``` file and set the vars.
 
 ### Credits
 * Velosh

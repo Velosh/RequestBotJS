@@ -1,6 +1,6 @@
 {
   "name": "vrb-stag",
-  "version": "0.0.1",
+  "version": "1.0.5",
   "description": "A request bot made using js for Velosh GSIs, this code is out of date, remember this!",
   "main": "bot.js",
   "dependencies": {
