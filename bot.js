@@ -57,7 +57,9 @@ bot.onText(/\/request (.+)/, (msg) => {
         });
       }
     } else {
-      bot.sendMessage(msg.chat.id, 'This bot cannot be used in other locations, use it in the [Velosh](https://t.me/veloshgsis) group!')
+      bot.sendMessage(msg.chat.id, 'This bot cannot be used in other locations, use it in the [Velosh](https://t.me/veloshgsis) group!', {
+        parse_mode: "markdown"
+      });
     }
   }
 });
